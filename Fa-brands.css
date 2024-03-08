@@ -4,7 +4,7 @@ body{
   display: flex;
   margin: 0;
   background-color: #ccc;
-  /*background: #ccc url(cascad.jpeg)  no-repeat center  ;*/
+  background: #ccc url(https://codetheworld.io/wp-content/uploads/2024/02/img-1.jpeg)  no-repeat center  ;
   height: -1vh;
   background-size: cover;
   justify-content: center;
@@ -22,6 +22,7 @@ body{
 .b{
   position: relative;
   top: -240px;
+  right: 25px;
 }
 ul{
   font-family: 'Roboto Condesend', sans-serif;
